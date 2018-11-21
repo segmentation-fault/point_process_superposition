@@ -10,3 +10,5 @@ Superposition of n i.i.d. one dimensional point processes according to % On the 
  Stable URL: http://www.jstor.org/stable/2333008 .
  
  In test_superpositions.m usage is shown along with Montecarlo validation.
+
+It needs the Matlab (R) Symbolic Toolbox. Tested on Matlab r2017b.
